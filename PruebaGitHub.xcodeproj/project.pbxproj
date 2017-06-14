@@ -83,6 +83,7 @@
 				90B9C5AD1EF0A2DE00827926 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		90B9C5AD1EF0A2DE00827926 /* Products */ = {
 			isa = PBXGroup;
@@ -507,6 +508,7 @@
 				90B9C5D61EF0A2DF00827926 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		90B9C5D71EF0A2DF00827926 /* Build configuration list for PBXNativeTarget "PruebaGitHubTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +517,7 @@
 				90B9C5D91EF0A2DF00827926 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		90B9C5DA1EF0A2DF00827926 /* Build configuration list for PBXNativeTarget "PruebaGitHubUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +526,7 @@
 				90B9C5DC1EF0A2DF00827926 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
